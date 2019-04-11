@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Bowlby+One+SC');
 @import "bootstrap";
 
 .clear {
@@ -38,6 +39,8 @@
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'Anton', sans-serif;
+  font-weight: thin;
 }
 
 header {
@@ -46,4 +49,12 @@ header {
 
 hr {
   clear:both;
+}
+
+h1{
+  font-family: 'Bowlby One SC', cursive;
+}
+
+h2 {
+  font-family: 'Bowlby One SC', cursive;
 }
