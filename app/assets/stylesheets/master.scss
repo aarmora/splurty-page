@@ -6,8 +6,8 @@
 }
 
 .circle {
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
+  font-family: 'Anton', sans-serif;
+  font-weight: thin;
   font-style: black italic;
   position: relative;
   border-radius: 100%;
@@ -58,4 +58,18 @@ h1{
 
 h2 {
   font-family: 'Bowlby One SC', cursive;
+}
+
+.next-quote {
+  color: #f84342;
+  font-family: 'Anton', sans-serif;
+  font-weight: thin;
+  font-size: 20px;
+}
+
+.footer-blurb {
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  text-align: right;
+  font-size: 12px;
 }
